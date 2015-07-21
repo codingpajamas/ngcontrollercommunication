@@ -1,0 +1,19 @@
+ 
+.pad20 {
+	padding: 20px !important;
+}  
+.mb0 {
+	margin-bottom: 0px !important;
+}
+.mb10 {
+	margin-bottom: 10px !important;
+}
+.mb20 {
+	margin-bottom: 20px !important;
+} 
+.bg-white {
+	background-color: #fff !important;
+} 
+.shadow {
+	box-shadow: 0 0 3px rgba(0,0,0,0.6) !important;
+}
