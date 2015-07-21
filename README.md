@@ -1,4 +1,4 @@
-Controllers Communication in Angularjs
+# Controllers Communication in Angularjs
 
 This is the code used in this article :
 
